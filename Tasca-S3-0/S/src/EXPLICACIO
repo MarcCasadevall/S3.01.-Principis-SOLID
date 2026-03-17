@@ -1,0 +1,7 @@
+1 - Que estava malament?
+Varies responsabilitats en una mateixa classe.
+2 - Per què incomplia el principi?
+Incomplia el Single Responsibility Principle que diu que cada classe tingui una responsabilitat unica
+3 - Quina solució has aplicat i per què?
+He separat les diferents responsabilitats en varies classes, en classe User per crear el objecte,
+la classe Register per fer la confirmacio, y la classe main per fer els inserts necessaris.
