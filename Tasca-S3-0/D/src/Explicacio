@@ -1,0 +1,3 @@
+He rafactorizado el codigo siguiendo el principio d'inversion de Dependèncias,
+pero que se inyecte una interfaz en vez de estar en el propio codigo como tal,
+asi, si cambio la base de datos no afectara en nada del programa.
