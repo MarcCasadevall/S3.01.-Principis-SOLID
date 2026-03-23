@@ -1,0 +1,3 @@
+He echo el codigo segun el principio SOLID abierto a extension pero no a modificacion,
+he echo una classe abstracta para poder ir añadiendo infinitas classes de intrumentos,
+sin tener que ir modificando el codigo cada vez que quieras poner algun instrumento.
