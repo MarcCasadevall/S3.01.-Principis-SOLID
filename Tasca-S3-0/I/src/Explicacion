@@ -1,0 +1,6 @@
+La interfaz MachineActions era una "interfaz gorda" que obligaba a AirConditioner
+a implementar el método wash(),
+el cual no tenía sentido para ese dispositivo.
+Solución: Se dividió la interfaz gigante en interfaces más pequeñas y específicas:
+
+Así, cada clase solo implementa los métodos que realmente utiliza.
